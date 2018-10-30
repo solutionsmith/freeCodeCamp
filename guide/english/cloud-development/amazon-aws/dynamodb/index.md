@@ -3,7 +3,7 @@ title: Amazon DynamoDB
 --- 
 ## Amazon DynamoDB
 
-Amazon DynamoDB is a service from Amazon Web Services (AWS) that offers a fully-managed NoSQL database. Its main feature is the capacity to scale infinitely depending on the workload needed. It is fully-managed, the user does not need to worry about the underlying infrastructure such as how to scale up or down depending on the workload. It supports key-value and document-based storage. 
+[Amazon DynamoDB](https://aws.amazon.com/dynamodb/) is a service from Amazon Web Services (AWS) that offers a fully-managed NoSQL database. Its main feature is the capacity to scale infinitely depending on the workload needed. It is fully-managed, the user does not need to worry about the underlying infrastructure such as how to scale up or down depending on the workload. It supports key-value and document-based storage. 
 
 The basic components of the DynamoDB service are:
 * **Table**: DynamoDB stores data in tables, which are like in relational databases. The main difference is that it is schemaless, it does not have a fixed structure from the moment of its creation.
